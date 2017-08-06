@@ -1,0 +1,55 @@
+10 3 1 5
+Passenger 1 wanders around the park.
+Passenger 2 wanders around the park.
+Passenger 5 wanders around the park.
+Passenger 7 wanders around the park.
+Passenger 3 wanders around the park.
+Passenger 9 wanders around the park.
+Passenger 10 wanders around the park.
+Passenger 6 wanders around the park.
+Passenger 4 wanders around the park.
+Passenger 8 wanders around the park.
+Passenger 1 returns for another ride at 1 millisec.
+Passenger 2 returns for another ride at 2 millisec.
+Passenger 3 returns for another ride at 3 millisec.
+Car departures at 3 millisec. Passengers 1  2  3  are in the car.
+Passenger 4 returns for another ride at 4 millisec.
+Car arrives at 4 millisec. Passengers 1  2  3  get off the car.
+Passenger 1 wanders around the park.
+Passenger 2 wanders around the park.
+Passenger 3 wanders around the park.
+Passenger 5 returns for another ride at 5 millisec.
+Passenger 1 returns for another ride at 5 millisec.
+Car departures at 5 millisec. Passengers 4  5  1  are in the car.
+Passenger 6 returns for another ride at 6 millisec.
+Passenger 2 returns for another ride at 6 millisec.
+Car arrives at 6 millisec. Passengers 4  5  1  get off the car.
+Passenger 5 wanders around the park.
+Passenger 1 wanders around the park.
+Passenger 4 wanders around the park.
+Passenger 7 returns for another ride at 7 millisec.
+Car departures at 7 millisec. Passengers 6  2  7  are in the car.
+Passenger 3 returns for another ride at 7 millisec.
+Passenger 1 returns for another ride at 7 millisec.
+Passenger 8 returns for another ride at 8 millisec.
+Car arrives at 8 millisec. Passengers 6  2  7  get off the car.
+Car departures at 8 millisec. Passengers 3  1  8  are in the car.
+Passenger 7 wanders around the park.
+Passenger 6 wanders around the park.
+Passenger 2 wanders around the park.
+Passenger 9 returns for another ride at 9 millisec.
+Car arrives at 9 millisec. Passengers 3  1  8  get off the car.
+Passenger 1 wanders around the park.
+Passenger 3 wanders around the park.
+Passenger 8 wanders around the park.
+Passenger 10 returns for another ride at 10 millisec.
+Passenger 2 returns for another ride at 10 millisec.
+Car departures at 10 millisec. Passengers 9  10  2  are in the car.
+Passenger 1 returns for another ride at 10 millisec.
+Passenger 4 returns for another ride at 10 millisec.
+Car arrives at 11 millisec. Passengers 9  10  2  get off the car.
+Passenger 5 returns for another ride at 11 millisec.
+Passenger 3 returns for another ride at 12 millisec.
+Passenger 6 returns for another ride at 14 millisec.
+Passenger 7 returns for another ride at 15 millisec.
+Passenger 8 returns for another ride at 17 millisec.
